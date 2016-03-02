@@ -1,0 +1,20 @@
+{
+    "name": "Restaurant",
+    "alias": "restaurant",
+    "description": "",
+    "version": "v0.1",
+    "keywords": [],
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Restaurant\\Providers\\RestaurantServiceProvider",
+        "Modules\\Restaurant\\Providers\\RouteServiceProvider"
+    ],
+    "widgets": [
+		"Modules\\Restaurant\\Widgets\\RestaurantWidget"
+	],
+    "aliases":{},
+    "files": [
+        
+    ]
+}
